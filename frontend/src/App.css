@@ -1,0 +1,20 @@
+* {
+    color: #112D4E;
+}
+
+body {
+    background-color: #F9F7F7;
+}
+
+#main-content {
+    background-color: #DBE2EF;
+    padding: 0px 10px 400px;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+h1, h2, form {
+    text-align: center;
+    padding: 20px;
+}
