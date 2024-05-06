@@ -257,4 +257,4 @@ dist/
 coverage/
 .vscode/
 
-*.code-workspace
+nexFlow.code-workspace
